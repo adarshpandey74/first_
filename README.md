@@ -1,2 +1,2 @@
-my first program in java.
-first push on github.
+My first program in java.
+First push on github.
